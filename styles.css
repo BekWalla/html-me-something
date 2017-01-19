@@ -414,5 +414,22 @@ div img {
 }
 img {
     width:300px;
-    height: auto;
+    height: 300px;
+}
+* {
+    background-color: #1E90FF;
+}
+*{
+    font-style: Georgia;
+}
+*{
+    text-align: center;
+}
+div div img{
+    width: 300px;
+    height: auto
+}
+div div div img{
+    height: 300px;
+    width: auto;
 }
